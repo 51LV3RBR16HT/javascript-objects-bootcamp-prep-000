@@ -7,4 +7,5 @@ var playlist = new Object({
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist['Dave Brubeck'] = "Take 5"
+  return playlist
 }
