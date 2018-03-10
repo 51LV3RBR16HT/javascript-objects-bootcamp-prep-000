@@ -5,4 +5,6 @@ var playlist = new Object({
   'Billie Holiday': "Gloomy Sunday"
 });
 
-function updatePlaylist(playlist, artistname, songtitle)
+function updatePlaylist(playlist, artistName, songTitle) {
+  playlist[''] = ""
+}
