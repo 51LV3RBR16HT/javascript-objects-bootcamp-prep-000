@@ -1,4 +1,9 @@
 var playlist = {};
 
-var playlist = { Ella Fitzgerald: "My Funny Valentine" };
+var playlist = new playlist();
+
+
+
+
+{ Ella Fitzgerald: "My Funny Valentine" };
 
