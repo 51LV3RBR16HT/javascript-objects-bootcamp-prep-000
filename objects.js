@@ -5,4 +5,4 @@ var playlist = new Object({
   'Billie Holiday': "Gloomy Sunday"
 });
 
-function updatePlaylist = 
+function updatePlaylist(playlist)
